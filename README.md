@@ -24,18 +24,21 @@ https://github.com/Nikhil-ostwal/chicken-disease-classification
 ```
 ### STEP 01- Create a venv environment after opening the repository
 
-´´´bash
+```bash
 python -m venv cnncls
-´´´
+```
 
 On Windows:
-´´´bash
+
+```bash
 cnncls\Scripts\activate
-´´´
+```
+
 On macOS and Linux:
-´´´bash
+
+```bash
 source cnncls/bin/activate
-´´´
+```
 
 
 ### STEP 02- install the requirements
