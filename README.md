@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/Nikhil-ostwal/chicken-disease-classification
 ```
 ### STEP 01- Create a venv environment after opening the repository
 
