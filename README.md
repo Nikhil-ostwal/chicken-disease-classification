@@ -29,11 +29,13 @@ python -m venv cnncls
 ´´´
 
 On Windows:
+´´´bash
 cnncls\Scripts\activate
-
+´´´
 On macOS and Linux:
+´´´bash
 source cnncls/bin/activate
-
+´´´
 
 
 ### STEP 02- install the requirements
